@@ -84,5 +84,4 @@ def Performance():
     return UNIVERSO[['rfcencrypt', 'RFC', 'PI', MESATRASO(x[0][4:7]), MESATRASO(x[1][4:7]), MESATRASO(x[2][4:7]),
            MESATRASO(x[3][4:7]), MESATRASO(x[4][4:7]), MESATRASO(x[5][4:7]), MESCVENCIDA(x[0][4:7]), MESCVENCIDA(x[1][4:7]),
            MESCVENCIDA(x[2][4:7]), MESCVENCIDA(x[3][4:7]), MESCVENCIDA(x[4][4:7]), MESCVENCIDA(x[5][4:7])]].to_csv(NOMBRETABLA,index=False)   
-
-hola
+hola es una prueba 
